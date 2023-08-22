@@ -1,0 +1,7 @@
+:root{
+    --Rojito: red
+}
+
+*{
+    background-color: var(--Rojito);
+}
